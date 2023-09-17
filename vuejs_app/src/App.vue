@@ -1,6 +1,8 @@
 <script setup>
 //import HelloWorld from './components/HelloWorld.vue'
 import myapp from './components/myapp.vue'
+
+//npx serve dist
 </script>
 
 <template>
@@ -10,3 +12,5 @@ import myapp from './components/myapp.vue'
 <style scoped>
 
 </style>
+
+
